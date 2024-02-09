@@ -12,7 +12,7 @@ This Python script allows you to inject shellcode into a remote process on Windo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yousef505050/remote-code-injector.git
+   git clone https://github.com/joisyousef/remote-code-injector.git
    cd remote-code-injector
    ```
 
